@@ -1,1 +1,1 @@
-# cosmetic-design-analysis
+# COSMETICS--ANALYSIS
